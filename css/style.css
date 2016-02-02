@@ -41,6 +41,29 @@ padding: 15px;
 
 /**end Shiloa advice styling**/
 
+/*Dustin Flanary advice styling*/
+.dustinflanary-advice h1 {
+	color: blue;
+}
+
+.dustinflanary-advice h4 {
+	color: red;
+	margin 2px;
+}
+
+.dustinflanary-advice p {
+	color: green;
+}
+
+.dustinflanary-advice {
+	background-color: yellow;
+}
+
+.dustinflanary-advice footer {
+	background-color:green;
+}
+
+
 /* Melissa Manousos advice styling **/
 .melissam-advice h1 {
 	color: blue;
